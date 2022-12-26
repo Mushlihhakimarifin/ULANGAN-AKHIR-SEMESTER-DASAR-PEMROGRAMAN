@@ -146,3 +146,5 @@ for (i=0; i<y;i++)
   return 0;
 }
 ## Output
+![Screenshot (1)](https://user-images.githubusercontent.com/121389842/209504731-fed5b7e8-fa24-4e16-bab3-92a5b1d3a7a1.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/121389842/209504770-1cd2a825-6327-49c8-816a-f8de949f96f3.png)
